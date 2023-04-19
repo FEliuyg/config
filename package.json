@@ -1,0 +1,10 @@
+{
+  "name": "config",
+  "description": "all config in one",
+  "scripts": {
+    "release": "pnpm -r publish"
+  },
+  "keywords": [],
+  "author": "xiaoyao",
+  "license": "ISC"
+}
