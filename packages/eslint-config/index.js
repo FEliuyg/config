@@ -40,6 +40,7 @@ module.exports = {
     'react/no-find-dom-node': 0,
     'react/default-props-match-prop-types': 0,
     'react/jsx-one-expression-per-line': 0,
+    'react/jsx-no-target-blank': 0,
 
     // import
     'import/no-absolute-path': 0,
