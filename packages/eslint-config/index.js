@@ -41,6 +41,8 @@ module.exports = {
     'react/default-props-match-prop-types': 0,
     'react/jsx-one-expression-per-line': 0,
     'react/jsx-no-target-blank': 0,
+    'react/jsx-props-no-spreading': 0,
+    'react/no-unstable-nested-components': 0,
 
     // import
     'import/no-absolute-path': 0,
@@ -100,5 +102,7 @@ module.exports = {
     'prefer-spread': 0,
     'no-undef': 0,
     'arrow-body-style': 0,
+    'no-use-before-define': 0,
+    'default-param-last': 0,
   },
 };
